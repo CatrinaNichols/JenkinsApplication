@@ -13,5 +13,5 @@ public class ExerciseLogApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExerciseLogApplication.class, args);
-	}
+
 }
