@@ -1,0 +1,9 @@
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/controller/ExerciseRestController.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/exceptions/ExceptionHandlerConfiguration.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/exceptions/NoSuchEntityException.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/model/repositories/SetJpaRepository.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/controller/SetRestController.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/model/repositories/ExerciseJpaRepository.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/model/Exercise.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/ExerciseLogApplication.java
+/git/JenkinsApplication/exercise-log/src/main/java/cox/ryan/exerciselog/model/Set.java
